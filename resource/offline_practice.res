@@ -11,21 +11,15 @@
 	
 	"maps"
 	{
-		"cp_dustbowl"
-		{
-			"name"				"Dustbowl"
-			"min_players"		"12"
-			"max_players"		"24"
-		}
-		"cp_gorge"
-		{
-			"name"				"Gorge"
-			"min_players"		"12"
-			"max_players"		"24"
-		}
 		"cp_5gorge"
 		{
 			"name"				"5Gorge"
+			"min_players"		"12"
+			"max_players"		"24"
+		}
+		"cp_altitude"
+		{
+			"name"				"Altitude"
 			"min_players"		"12"
 			"max_players"		"24"
 		}
@@ -47,9 +41,21 @@
 			"min_players"		"12"
 			"max_players"		"24"
 		}
+		"cp_dustbowl"
+		{
+			"name"				"Dustbowl"
+			"min_players"		"12"
+			"max_players"		"24"
+		}
 		"cp_egypt_final"
 		{
 			"name"				"Egypt"
+			"min_players"		"12"
+			"max_players"		"24"
+		}
+		"cp_ambush_event"
+		{
+			"name"				"Erebus"
 			"min_players"		"12"
 			"max_players"		"24"
 		}
@@ -62,6 +68,12 @@
 		"cp_freight_final1"
 		{
 			"name"				"Freight"
+			"min_players"		"12"
+			"max_players"		"24"
+		}
+		"cp_gorge"
+		{
+			"name"				"Gorge"
 			"min_players"		"12"
 			"max_players"		"24"
 		}
@@ -155,45 +167,27 @@
 			"min_players"		"12"
 			"max_players"		"24"
 		}
-		"koth_viaduct"
-		{
-			"name"				"Viaduct"
-			"min_players"		"12"
-			"max_players"		"24"
-		}
 		"koth_badlands"
 		{
 			"name"				"Badlands"
 			"min_players"		"12"
 			"max_players"		"24"
 		}
-		"koth_nucleus"
+		"koth_brazil"
 		{
-			"name"				"Nucleus"
+			"name"				"Brazil"
 			"min_players"		"12"
 			"max_players"		"24"
 		}
-		"koth_lakeside_final"
+		"koth_cascade"
 		{
-			"name"				"Lakeside"
-			"min_players"		"12"
-			"max_players"		"24"
-		}
-		"koth_sawmill"
-		{
-			"name"				"Sawmill"
+			"name"				"Cascade"
 			"min_players"		"12"
 			"max_players"		"24"
 		}
 		"koth_bagel_event"
 		{
 			"name"				"Cauldron"
-			"min_players"		"12"
-			"max_players"		"24"
-		}
-		"koth_brazil"
-		{
-			"name"				"Brazil"
 			"min_players"		"12"
 			"max_players"		"24"
 		}
@@ -215,9 +209,27 @@
 			"min_players"		"12"
 			"max_players"		"24"
 		}
+		"koth_lakeside_final"
+		{
+			"name"				"Lakeside"
+			"min_players"		"12"
+			"max_players"		"24"
+		}
+		"koth_slaughter_event"
+		{
+			"name"				"Laughter"
+			"min_players"		"12"
+			"max_players"		"24"
+		}
 		"koth_lazarus"
 		{
 			"name"				"Lazarus"
+			"min_players"		"12"
+			"max_players"		"24"
+		}
+		"koth_los_muertos"
+		{
+			"name"				"Los Muertos"
 			"min_players"		"12"
 			"max_players"		"24"
 		}
@@ -233,9 +245,21 @@
 			"min_players"		"12"
 			"max_players"		"24"
 		}
+		"koth_undergrove_event"
+		{
+			"name"				"Moldergrove"
+			"min_players"		"12"
+			"max_players"		"24"
+		}
 		"koth_moonshine_event"
 		{
 			"name"				"Moonshine Event"
+			"min_players"		"12"
+			"max_players"		"24"
+		}
+		"koth_nucleus"
+		{
+			"name"				"Nucleus"
 			"min_players"		"12"
 			"max_players"		"24"
 		}
@@ -245,15 +269,21 @@
 			"min_players"		"12"
 			"max_players"		"24"
 		}
-		"koth_slasher"
+		"koth_sawmill"
 		{
-			"name"				"Slasher"
+			"name"				"Sawmill"
 			"min_players"		"12"
 			"max_players"		"24"
 		}
-		"koth_slaughter_event"
+		"koth_synthetic_event"
 		{
-			"name"				"Laughter"
+			"name"				"Sinthetic"
+			"min_players"		"12"
+			"max_players"		"24"
+		}
+		"koth_slasher"
+		{
+			"name"				"Slasher"
 			"min_players"		"12"
 			"max_players"		"24"
 		}
@@ -263,33 +293,9 @@
 			"min_players"		"12"
 			"max_players"		"24"
 		}
-		"koth_undergrove_event"
+		"koth_viaduct"
 		{
-			"name"				"Moldergrove"
-			"min_players"		"12"
-			"max_players"		"24"
-		}
-		"pl_upward"
-		{
-			"name"				"Upward"
-			"min_players"		"12"
-			"max_players"		"24"
-		}
-		"pl_thundermountain"
-		{
-			"name"				"Thunder Mountain"
-			"min_players"		"12"
-			"max_players"		"24"
-		}
-		"pl_hoodoo_final"
-		{
-			"name"				"Hoodoo"
-			"min_players"		"12"
-			"max_players"		"24"
-		}
-		"pl_goldrush"
-		{
-			"name"				"Gold Rush"
+			"name"				"Viaduct"
 			"min_players"		"12"
 			"max_players"		"24"
 		}
@@ -311,15 +317,9 @@
 			"min_players"		"12"
 			"max_players"		"24"
 		}
-		"pl_cactuscanyon"
+		"pl_breadspace"
 		{
-			"name"				"Cactus Canyon"
-			"min_players"		"12"
-			"max_players"		"24"
-		}
-		"pl_enclosure_final"
-		{
-			"name"				"Enclosure"
+			"name"				"Bread Space"
 			"min_players"		"12"
 			"max_players"		"24"
 		}
@@ -329,9 +329,45 @@
 			"min_players"		"12"
 			"max_players"		"24"
 		}
+		"pl_cactuscanyon"
+		{
+			"name"				"Cactus Canyon"
+			"min_players"		"12"
+			"max_players"		"24"
+		}
+		"pl_chilly"
+		{
+			"name"				"Chilly"
+			"min_players"		"12"
+			"max_players"		"24"
+		}
+		"pl_enclosure_final"
+		{
+			"name"				"Enclosure"
+			"min_players"		"12"
+			"max_players"		"24"
+		}
+		"pl_goldrush"
+		{
+			"name"				"Gold Rush"
+			"min_players"		"12"
+			"max_players"		"24"
+		}
+		"pl_rumble_event"
+		{
+			"name"				"Gravestone"
+			"min_players"		"12"
+			"max_players"		"24"
+		}
 		"pl_hasslecastle"
 		{
 			"name"				"Hassle Castle"
+			"min_players"		"12"
+			"max_players"		"24"
+		}
+		"pl_hoodoo_final"
+		{
+			"name"				"Hoodoo"
 			"min_players"		"12"
 			"max_players"		"24"
 		}
@@ -341,15 +377,21 @@
 			"min_players"		"12"
 			"max_players"		"24"
 		}
-		"pl_precipice_event_final"
+		"pl_pier"
 		{
-			"name"				"Precipice"
+			"name"				"Pier"
 			"min_players"		"12"
 			"max_players"		"24"
 		}
-		"pl_rumble_event"
+		"pl_coal_event"
 		{
-			"name"				"Gravestone"
+			"name"				"Polar"
+			"min_players"		"12"
+			"max_players"		"24"
+		}
+		"pl_precipice_event_final"
+		{
+			"name"				"Precipice"
 			"min_players"		"12"
 			"max_players"		"24"
 		}
@@ -363,6 +405,31 @@
 	//	"pl_swiftwater_final1"
 	//	{
 	//		"name"				"Swiftwater"
+	//		"min_players"		"12"
+	//		"max_players"		"24"
+	//	}
+		"pl_terror_event"
+		{
+			"name"				"Terror"
+			"min_players"		"12"
+			"max_players"		"24"
+		}
+		"pl_thundermountain"
+		{
+			"name"				"Thunder Mountain"
+			"min_players"		"12"
+			"max_players"		"24"
+		}
+		"pl_upward"
+		{
+			"name"				"Upward"
+			"min_players"		"12"
+			"max_players"		"24"
+		}
+	//PL Wutville is not supported
+	//	"pl_wutville"
+	//	{
+	//		"name"				"Wutville"
 	//		"min_players"		"12"
 	//		"max_players"		"24"
 	//	}
